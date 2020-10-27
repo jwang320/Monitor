@@ -1,0 +1,8 @@
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\bin\Debug\BD Auto Closer.exe.config
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\bin\Debug\BD Auto Closer.exe
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BDAC.csprojAssemblyReference.cache
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BDAC.MainFrm.resources
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BDAC.Properties.Resources.resources
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BDAC.csproj.GenerateResource.cache
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BDAC.csproj.CoreCompileInputs.cache
+C:\Users\JongBot\Desktop\BDAC-master\BDAC\obj\Debug\BD Auto Closer.exe
